@@ -13,6 +13,7 @@ Url to web interface: https://jsfiddle.net/HXH1620/bL39a2jg/show/
 Url to all data used and generated: https://drive.google.com/drive/folders/1Sba1O7oKbyLZxjN3HatpnoF2h3c4RmFh
 
 # Organization of the Files
+```
 . 
 ├── data.py  
 ├── model.py
@@ -20,8 +21,15 @@ Url to all data used and generated: https://drive.google.com/drive/folders/1Sba1
 ├── pro_airflow.py 
 ├── interface.html
 ├── interface.js
+├── game_scorecard_lda.csv
+├── steamspy_data.csv
+├── steamspy_onehot.csv
+├── steamspy_withlda.csv
+├── webdata.csv
 ├── Final Report.pdf
-└── README.md  
+└── README.md
+
+```
 
 # Description of the Files
 * data.py: data collection and preprocessing
